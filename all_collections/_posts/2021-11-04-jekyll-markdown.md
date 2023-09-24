@@ -2,7 +2,7 @@
 layout: post
 title: Citizen Conflict
 date: 2023
-categories: ["Game Design"]["UX"]
+categories: ["Game Design""UX"]
 thumbnail: "assets/images/thumb1.png"
 ---
 
