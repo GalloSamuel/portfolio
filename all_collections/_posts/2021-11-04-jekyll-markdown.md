@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Citizen Conflict
-categories: ["Game Design,UX/UI,UE5"]
+categories: [Game Design,UX/UI,UE5]
 thumbnail: "assets/images/thumb1.png"
 ---
 
