@@ -99,9 +99,9 @@ header .site-title {
 
 #articles {
   display: grid;
-  grid-template-columns: none;
-  grid-template-rows: 1fr;
-  row-gap: 3rem;
+  grid-template-columns: 1fr; /* Set the columns to be equal width */
+  grid-template-rows: auto; /* Auto height for each row */
+  row-gap: 3rem; /* Adjust this value to control the space between posts */
   margin-bottom: 3rem;
 }
 
