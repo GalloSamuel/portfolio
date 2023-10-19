@@ -2,6 +2,7 @@
 layout: post
 title: Aneemate
 categories: [Game Design,UI/UX,UE5]
+date: 2023-01-23
 thumbnail: "assets/images/thumb1.png"
 ---
 
