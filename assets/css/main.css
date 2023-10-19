@@ -99,9 +99,8 @@ header .site-title {
 
 #articles {
   display: grid;
-  grid-template-columns: repeat(3, 1fr); /* Define 3 columns */
+  grid-template-columns: none;
   grid-template-rows: 1fr;
-  column-gap: 3rem; /* Add space between columns */
   row-gap: 3rem;
   margin-bottom: 3rem;
 }
@@ -114,7 +113,6 @@ header .site-title {
   flex-direction: column;
   justify-content: space-between;
   position: relative;
-  margin-bottom: 0; /* Remove margin between articles */
 }
 
 .article-thumbnail {
