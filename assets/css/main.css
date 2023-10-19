@@ -61,11 +61,7 @@ header .site-title {
   align-items: center;
   gap: 3rem;
 }
-/* #bio-avatar-wrapper {} */
-#bio-avatar {
-  width: 180px;
-  border-radius: 50%;
-}
+
 /* #bio-text-and-social-links {} */
 #bio-text {
   line-height: 140%;
