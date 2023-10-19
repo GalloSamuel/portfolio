@@ -113,6 +113,7 @@ header .site-title {
   flex-direction: column;
   justify-content: space-between;
   position: relative;
+  margin-bottom: 3rem;
 }
 
 .article-thumbnail {
