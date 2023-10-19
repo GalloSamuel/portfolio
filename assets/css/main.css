@@ -102,7 +102,6 @@ header .site-title {
   grid-template-columns: none;
   grid-template-rows: 1fr;
   row-gap: 3rem;
-  margin-bottom: 3rem;
 }
 
 .article {
