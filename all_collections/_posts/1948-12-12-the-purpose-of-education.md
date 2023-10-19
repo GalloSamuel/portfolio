@@ -5,7 +5,6 @@ date: 2022-Current
 categories: [Game Design,UI/UX,UE5]
 ---
 
+![alt](https://github.com/Bibool/portfolio.github.io/blob/main/assets/ani_banner.png?raw=true)
+
 Hello this is aneemate project
-
-![alt](https://picsum.photos/800/300)
-
