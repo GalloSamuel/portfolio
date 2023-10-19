@@ -19,7 +19,7 @@ window.onload = function () {
         </a>
         `
       })
-      document.querySelector("#category-modal-title").innerText = e.target.innerText;
+      document.querySelector("#category-modal-title").innerText = "";
       document.querySelector("#category-modal-content").innerHTML = html;
       document.querySelector("#category-modal-bg").classList.toggle("open");
       document.querySelector("#category-modal").classList.toggle("open");
