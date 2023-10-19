@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Citizen Conflict
-date: 2021-Current
 categories: ["Game Design,UX/UI,UE5"]
 thumbnail: "assets/images/thumb1.png"
 ---
