@@ -3,7 +3,7 @@ layout: post
 title: Citizen Conflict
 categories: [Game Design,UX/UI,UE5]
 date: 2022-03-01
-thumbnail: "assets/images/photo_2023-08-23_15-11-58.jpg"
+thumbnail: "assets/images/photo_2023-09-21_21-37-31.jpg"
 ---
 
 ![alt](https://github.com/Bibool/portfolio.github.io/blob/main/assets/cc_banner1.png?raw=true)
