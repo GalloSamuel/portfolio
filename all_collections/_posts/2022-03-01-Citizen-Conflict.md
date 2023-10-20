@@ -16,4 +16,4 @@ Citizen Conflit is a team-based hero shooter with fast-paced gameplay, played fr
 
 As a game designer at Qorpo Games Studio, I played a key role in creating "Citizen Conflict." I shaped and designed the game mechanics, contributed to UI/UX efforts, and participated in designing PVP maps for the game.
 
-[alt](https://github.com/GalloSamuel/portfolio/blob/main/assets/images/Screenshot_2023-08-21_17-29-35.png?raw=true)
+![alt](https://github.com/GalloSamuel/portfolio/blob/main/assets/images/Screenshot_2023-08-21_17-29-35.png?raw=true)
