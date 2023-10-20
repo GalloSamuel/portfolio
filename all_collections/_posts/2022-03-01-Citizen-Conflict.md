@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Citizen Conflict
-categories: [Game Design,UI/UX,UE5,Balancing]
+categories: [Game Design,Balancing,UI/UX,UE5]
 date: 2022-03-01
 thumbnail: "assets/images/photo_2023-09-21_21-37-31.jpg"
 ---
